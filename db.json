@@ -1,32 +1,34 @@
-[
-  {
-    "id": 1,
-    "NomeCompleto": "João da Silva",
-    "email": "joao.silva@example.com",
-    "senha": "senha123"
-  },
-  {
-    "id": 2,
-    "NomeCompleto": "Maria Oliveira",
-    "email": "maria.oliveira@example.com",
-    "senha": "abc123"
-  },
-  {
-    "id": 3,
-    "NomeCompleto": "Pedro Santos",
-    "email": "pedro.santos@example.com",
-    "senha": "senha456"
-  },
-  {
-    "id": 4,
-    "NomeCompleto": "Ana Souza",
-    "email": "ana.souza@example.com",
-    "senha": "def456"
-  },
-  {
-    "id": 5,
-    "NomeCompleto": "Carla Lima",
-    "email": "carla.lima@example.com",
-    "senha": "senha789"
-  }
-]
+{
+  "Usuarios": [
+    {
+      "id": 1,
+      "NomeCompleto": "João da Silva",
+      "email": "joao.silva@example.com",
+      "senha": "senha123"
+    },
+    {
+      "id": 2,
+      "NomeCompleto": "Maria Oliveira",
+      "email": "maria.oliveira@example.com",
+      "senha": "abc123"
+    },
+    {
+      "id": 3,
+      "NomeCompleto": "Pedro Santos",
+      "email": "pedro.santos@example.com",
+      "senha": "senha456"
+    },
+    {
+      "id": 4,
+      "NomeCompleto": "Ana Souza",
+      "email": "ana.souza@example.com",
+      "senha": "def456"
+    },
+    {
+      "id": 5,
+      "NomeCompleto": "Carla Lima",
+      "email": "carla.lima@example.com",
+      "senha": "senha789"
+    }
+  ]
+}
