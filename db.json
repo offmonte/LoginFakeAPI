@@ -35,6 +35,30 @@
       "NomeCompleto": "Rafael Mendes",
       "email": "rafael.mendes@example.com",
       "senha": "ghi789"
+    },
+    {
+      "id": 7,
+      "NomeCompleto": "Fernanda Costa",
+      "email": "fernanda.costa@example.com",
+      "senha": "senha101"
+    },
+    {
+      "id": 8,
+      "NomeCompleto": "Lucas Pereira",
+      "email": "lucas.pereira@example.com",
+      "senha": "senha202"
+    },
+    {
+      "id": 9,
+      "NomeCompleto": "Bruna Almeida",
+      "email": "bruna.almeida@example.com",
+      "senha": "senha303"
+    },
+    {
+      "id": 10,
+      "NomeCompleto": "Tiago Rodrigues",
+      "email": "tiago.rodrigues@example.com",
+      "senha": "senha404"
     }
   ]
 }
