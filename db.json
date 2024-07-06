@@ -59,6 +59,18 @@
       "NomeCompleto": "Tiago Rodrigues",
       "email": "tiago.rodrigues@example.com",
       "senha": "senha404"
+    },
+    {
+      "id": 11,
+      "NomeCompleto": "Gustavo Nogueira",
+      "email": "gustavo.nogueira@example.com",
+      "senha": "senha505"
+    },
+    {
+      "id": 12,
+      "NomeCompleto": "Juliana Martins",
+      "email": "juliana.martins@example.com",
+      "senha": "senha606"
     }
   ]
 }
