@@ -71,6 +71,24 @@
       "NomeCompleto": "Juliana Martins",
       "email": "juliana.martins@example.com",
       "senha": "senha606"
+    },
+    {
+      "id": 13,
+      "NomeCompleto": "Renata Silva",
+      "email": "renata.silva@example.com",
+      "senha": "senha707"
+    },
+    {
+      "id": 14,
+      "NomeCompleto": "Marcelo Costa",
+      "email": "marcelo.costa@example.com",
+      "senha": "senha808"
+    },
+    {
+      "id": 15,
+      "NomeCompleto": "Beatriz Almeida",
+      "email": "beatriz.almeida@example.com",
+      "senha": "senha909"
     }
   ]
 }
