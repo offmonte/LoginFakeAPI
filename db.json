@@ -29,6 +29,12 @@
       "NomeCompleto": "Carla Lima",
       "email": "carla.lima@example.com",
       "senha": "senha789"
+    },
+    {
+      "id": 6,
+      "NomeCompleto": "Rafael Mendes",
+      "email": "rafael.mendes@example.com",
+      "senha": "ghi789"
     }
   ]
 }
